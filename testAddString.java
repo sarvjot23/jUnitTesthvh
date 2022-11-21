@@ -11,8 +11,8 @@ public class testAddString {
 	@Test
 	public void test() {
 		jUnitFunctions jUnit= new jUnitFunctions();
-		 String result = jUnitFunctions.AddString("Raja","Babu");
-		 assertEquals("RajaBabu",result);
+		 String result = jUnitFunctions.AddString("Sarvjot","Singh");
+		 assertEquals("SarvjotSingh",result);
 	}
 
 }
